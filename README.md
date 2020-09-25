@@ -1,3 +1,3 @@
-# Pacific New Site
+# Def Starz New Site
 
-Site Link: https://addyhebou.github.io/Pacific-Assistant-Site/
+Site Link: https://addyhebou.github.io/Def-Starz-Assistant-Site/
